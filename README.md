@@ -39,8 +39,8 @@ Sistema para una escuela de fútbol con 3 sedes: **bot de WhatsApp**, panel de a
 ### 💜 [VitaRing](https://github.com/leonardovelezdevilla/vitaring)
 Prototipo universitario de anillo inteligente: app **Android** y app **Wear OS** que leen el pulso del Galaxy Watch y lo muestran con un semáforo. GitHub Actions compila los APK en cada cambio.
 
-### 🎥 Atisba · videovigilancia inteligente
-*Prototipo privado en desarrollo.* Capa de IA que se instala sobre las cámaras y el DVR existentes: lectura de placas, alertas al celular y asistente en español con IA local.
+### 🎥 [Atisba · videovigilancia inteligente](https://github.com/leonardovelezdevilla/caso-atisba)
+*Prototipo en desarrollo (código privado).* Capa de IA que se instala sobre las cámaras y el DVR existentes: lectura de placas, alertas al celular y asistente en español con IA local. 808 pruebas automatizadas y 43 decisiones de arquitectura documentadas. **[Ver el caso de estudio →](https://github.com/leonardovelezdevilla/caso-atisba)**
 
 ---
 
