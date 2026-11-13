@@ -1,0 +1,47 @@
+# Hola, soy Leonardo Vélez De Villa 👋
+
+Ingeniero industrial (UNFV, décimo superior) que convierte necesidades de usuarios en productos digitales usando IA. Levanto requerimientos, prototipo, pruebo antes de desplegar y documento.
+
+**Ahora:** practicante en la OEFA (Coordinación de Residuos Sólidos), donde digitalicé el trabajo de campo de los supervisores.
+
+---
+
+## Proyectos destacados
+
+### 🗺️ Sistema digital de fichas de campo · OEFA
+*Código institucional, no público.*
+
+- **Problema:** los supervisores llenaban a mano las fichas de **1 080 áreas degradadas por residuos municipales** y **1 130 por residuos de construcción y demolición**, y luego otro equipo las digitaba.
+- **Solución:** dos **apps web progresivas (PWA)** que funcionan en celular y sin internet, con mapa, GPS y **validación en tiempo real** de coordenadas contra capas de SERNANP (áreas naturales protegidas), ANA (faja marginal) y Ministerio de Cultura (zonas arqueológicas). Cada ficha genera su Word y PDF institucional y llega a un **panel de revisión** con acceso restringido, donde se observa o se da conformidad.
+- **Calidad:** medición del tiempo de cada ficha, pruebas simuladas, revisión del código con agentes de IA separados y despliegue por versiones documentadas.
+- **Resultado:** se evitó contratar a unas 10 personas para sistematizar fichas a mano.
+- **Stack:** Google Apps Script · JavaScript · HTML/CSS · Cloudflare Pages · Leaflet · IndexedDB
+
+### ⏱️ Automatización de plazos con INAF · OEFA, Zona 1
+*Código institucional, no público.*
+
+Herramienta en Apps Script (unas 3 000 líneas) que sincroniza los reportes del sistema INAF con la hoja de gestión, marca inconsistencias, calcula plazos en días hábiles con feriados, envía alertas por correo y ofrece un tablero de indicadores y un portal para supervisores externos.
+
+### ⚽ [Coyote Bot](https://github.com/leonardovelezdevilla/coyote-bot)
+Sistema para una escuela de fútbol con 3 sedes: **bot de WhatsApp**, panel de administración pensado para usuarios no técnicos, página web pública, asistencia con carnet QR, caja, cuotas y encuestas.
+- Un solo Worker de **Cloudflare** con base de datos **D1 (SQL)**.
+- **Más de 240 comprobaciones automáticas** con un WhatsApp simulado (`npm test`).
+
+### 💜 [VitaRing](https://github.com/leonardovelezdevilla/vitaring)
+Prototipo universitario de anillo inteligente: app **Android** y app **Wear OS** que leen el pulso del Galaxy Watch y lo muestran con un semáforo. GitHub Actions compila los APK en cada cambio.
+
+### 📊 [Gestión de los Riesgos del Proyecto](https://expo-riesgos.vercel.app) · [código](https://github.com/leonardovelezdevilla/expo-riesgos)
+Presentación web interactiva (PMBOK, cap. 11) para un curso de la universidad, desplegada en Vercel.
+
+### 🎥 Atisba · videovigilancia inteligente
+*Prototipo privado en desarrollo.* Capa de IA que se instala sobre las cámaras y el DVR que el cliente ya tiene: lectura de placas, alertas al celular y asistente en español con IA local.
+
+---
+
+## Cómo trabajo
+
+- **IA aplicada:** Claude, Gemini y NotebookLM para prototipar, programar, revisar código, analizar datos y documentar.
+- **Producto:** levantamiento de requerimientos, trabajo por iteraciones, pruebas antes de cada despliegue.
+- **Herramientas:** Apps Script · JavaScript · SQL · Git · GitHub Actions · Vercel · Cloudflare · AppSheet · Figma
+
+📍 Lima, Perú
