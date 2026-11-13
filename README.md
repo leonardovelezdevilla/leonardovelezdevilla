@@ -9,18 +9,26 @@ Ingeniero industrial (UNFV, décimo superior) que convierte necesidades de usuar
 ## Proyectos destacados
 
 ### 🗺️ Sistema digital de fichas de campo · OEFA
-*Código institucional, no público.*
+*Código institucional, no público.* · 📄 **[Leer el caso de estudio](https://github.com/leonardovelezdevilla/caso-fichas-de-campo)**
 
 - **Problema:** los supervisores llenaban a mano las fichas de **1 080 áreas degradadas por residuos municipales** y **1 130 por residuos de construcción y demolición**, y luego otro equipo las digitaba.
 - **Solución:** dos **apps web progresivas (PWA)** que funcionan en celular y sin internet, con mapa, GPS y **validación en tiempo real** de coordenadas contra capas de SERNANP (áreas naturales protegidas), ANA (faja marginal) y Ministerio de Cultura (zonas arqueológicas). Cada ficha genera su Word y PDF institucional y llega a un **panel de revisión** con acceso restringido, donde se observa o se da conformidad.
 - **Calidad:** medición del tiempo de cada ficha, pruebas simuladas, revisión del código con agentes de IA separados y despliegue por versiones documentadas.
-- **Resultado:** se evitó contratar a unas 10 personas para sistematizar fichas a mano.
+- **Resultado:** la revisión de cada ficha bajó de **~1 hora a una mediana de 5 minutos (‑92 %)**; más de 230 fichas recibidas en las primeras semanas; se evitó contratar a unas 10 personas para sistematizar.
 - **Stack:** Google Apps Script · JavaScript · HTML/CSS · Cloudflare Pages · Leaflet · IndexedDB
 
 ### ⏱️ Automatización de plazos con INAF · OEFA, Zona 1
 *Código institucional, no público.*
 
 Herramienta en Apps Script (unas 3 000 líneas) que sincroniza los reportes del sistema INAF con la hoja de gestión, marca inconsistencias, calcula plazos en días hábiles con feriados, envía alertas por correo y ofrece un tablero de indicadores y un portal para supervisores externos.
+
+### 💰 Sol · finanzas personales
+App Android en Flutter para registrar gastos, ingresos y transferencias, con presupuestos por categoría, metas de ahorro, cuentas y tarjetas en soles y dólares, captura de avisos de Yape y del banco, y exportación a Excel. Los datos se guardan en el teléfono, sin login.
+- Cálculo de saldos desde un libro de movimientos (*ledger*) como fuente de verdad.
+- GitHub Actions compila, prueba, firma el APK y graba un recorrido en emulador.
+- *Repositorio privado (uso personal y familiar).*
+
+<img src="img/sol.png" alt="Pantallas de Sol: inicio, movimientos y registro" width="720">
 
 ### ⚽ [Coyote Bot](https://github.com/leonardovelezdevilla/coyote-bot)
 Sistema para una escuela de fútbol con 3 sedes: **bot de WhatsApp**, panel de administración pensado para usuarios no técnicos, página web pública, asistencia con carnet QR, caja, cuotas y encuestas.
