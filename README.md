@@ -30,7 +30,8 @@ App Android en Flutter para registrar gastos, ingresos y transferencias, con pre
 
 <img src="img/sol.png" alt="Pantallas de Sol: inicio, movimientos y registro" width="720">
 
-### ⚽ [Coyote Bot](https://github.com/leonardovelezdevilla/coyote-bot)
+### ⚽ Coyote Bot
+*Repositorio privado (datos reales de clientes); disponible para demostración.*
 Sistema para una escuela de fútbol con 3 sedes: **bot de WhatsApp**, panel de administración pensado para usuarios no técnicos, página web pública, asistencia con carnet QR, caja, cuotas y encuestas.
 - Un solo Worker de **Cloudflare** con base de datos **D1 (SQL)**.
 - **Más de 240 comprobaciones automáticas** con un WhatsApp simulado (`npm test`).
