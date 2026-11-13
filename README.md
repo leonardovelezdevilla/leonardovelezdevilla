@@ -23,7 +23,7 @@ Estudiante de último ciclo de Ingeniería Industrial (UNFV, décimo superior; e
 Herramienta en Apps Script (unas 3000 líneas) que sincroniza los reportes del sistema INAF con la hoja de gestión, marca inconsistencias, calcula plazos en días hábiles con feriados, envía alertas por correo y ofrece un tablero de indicadores y un portal para supervisores externos.
 
 ### 💰 Sol · finanzas personales
-App Android en Flutter para registrar gastos, ingresos y transferencias, con presupuestos por categoría, metas de ahorro, cuentas y tarjetas en soles y dólares, captura de avisos de Yape y del banco, y exportación a Excel. Los datos se guardan en el teléfono, sin login.
+App Android en Flutter para registrar gastos, ingresos y transferencias automaticos por lector de notificaciones, con presupuestos por categoría, metas de ahorro, cuentas y tarjetas en soles y dólares, captura de avisos de Yape y del banco, y exportación a Excel.
 - Cálculo de saldos desde un libro de movimientos (*ledger*) como fuente de verdad.
 - GitHub Actions compila, prueba, firma el APK y graba un recorrido en emulador.
 - *Repositorio privado (uso personal y familiar).*
