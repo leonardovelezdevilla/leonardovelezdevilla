@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://velezdevilla.com"><img src="https://img.shields.io/badge/Web-velezdevilla.com-0b2233?style=for-the-badge" alt="Web: velezdevilla.com"></a>
   <a href="https://www.linkedin.com/in/leonardovelezdevilla"><img src="https://img.shields.io/badge/LinkedIn-leonardovelezdevilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:leonardovelezdevillagranda@gmail.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-ffd166?style=for-the-badge&logo=gmail&logoColor=0b2233" alt="Correo"></a>
+  <a href="mailto:contacto@velezdevilla.com"><img src="https://img.shields.io/badge/Correo-Escríbeme-ffd166?style=for-the-badge&logo=gmail&logoColor=0b2233" alt="Correo"></a>
 </p>
 
 Estudiante de último ciclo de **Ingeniería Industrial** (UNFV, décimo superior; egreso dic. 2026). Tomo un proceso manual, lo convierto en una herramienta digital con IA, mido el resultado y lo dejo documentado para que el equipo lo use solo.
