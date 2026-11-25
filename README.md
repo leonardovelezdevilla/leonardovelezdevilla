@@ -8,7 +8,8 @@
 
 Estudiante de último ciclo de **Ingeniería Industrial** (UNFV, décimo superior; egreso dic. 2026). Tomo un proceso manual, lo convierto en una herramienta digital con IA, mido el resultado y lo dejo documentado para que el equipo lo use solo.
 
-**Ahora:** practicante de automatización y datos en la OEFA.
+**Ahora:** practicante de automatización y datos en la OEFA.<br>
+**Busco:** puestos de automatización, procesos o datos desde diciembre de 2026, en Lima o remoto.
 
 ---
 
