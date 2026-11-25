@@ -14,7 +14,7 @@ Estudiante de último ciclo de **Ingeniería Industrial** (UNFV, décimo superio
 
 ## 📈 Resultados
 
-| | |
+| Logro | Detalle |
 |---|---|
 | ⏱️ **De ~1 hora a 5 minutos** | Revisión de cada ficha de supervisión de campo en la OEFA (‑92 %), medida en más de 230 fichas reales. |
 | 📊 **Tablero que se actualiza solo** | Apps Script descarga cada día los registros del SIGED, los consolida en Google Sheets y alimenta un tablero en Looker Studio por zona. |
